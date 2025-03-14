@@ -33,7 +33,7 @@ Este é um simples **gerenciador de tarefas** desenvolvido com **React** e **Vit
 3. Instale as dependências:
 
    ```bash
-       npm install
+   npm install
    ```
 
 4. Inicie o servidor de desenvolvimento:
@@ -42,8 +42,5 @@ Este é um simples **gerenciador de tarefas** desenvolvido com **React** e **Vit
    npm run dev
    ```
 
-5. Abra o navegador e acesse:
-   [npm run dev](http://localhost:5173/)
-
-Feito por Arthur Gabriel Vieira da Rocha.
-Este README.md fornece uma visão geral clara do projeto, como rodá-lo, tecnologias usadas, e ainda oferece uma seção para contribuições. Caso queira adicionar algo mais ou modificar algum detalhe, só me avisar!
+   Feito por Arthur Gabriel Vieira da Rocha.
+   Este README.md fornece uma visão geral clara do projeto, como rodá-lo, tecnologias usadas, e ainda oferece uma seção para contribuições. Caso queira adicionar algo mais ou modificar algum detalhe, só me avisar!
