@@ -25,13 +25,22 @@ Este é um simples **gerenciador de tarefas** desenvolvido com **React** e **Vit
    git clone https://github.com/seuusuario/gerenciador-de-tarefas.git
    ```
 2. Navegue até o diretório do projeto:
+
+   ```bash
    cd gerenciador-de-tarefas
+   ```
 
 3. Instale as dependências:
-   npm install
+
+   ```bash
+       npm install
+   ```
 
 4. Inicie o servidor de desenvolvimento:
+
+   ```bash
    npm run dev
+   ```
 
 5. Abra o navegador e acesse:
    [npm run dev](http://localhost:5173/)
