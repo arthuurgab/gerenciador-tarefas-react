@@ -43,4 +43,3 @@ Este é um simples **gerenciador de tarefas** desenvolvido com **React** e **Vit
    ```
 
 Feito por Arthur Gabriel Vieira da Rocha.
-Este README.md fornece uma visão geral clara do projeto, como rodá-lo, tecnologias usadas, e ainda oferece uma seção para contribuições. Caso queira adicionar algo mais ou modificar algum detalhe, só me avisar!
